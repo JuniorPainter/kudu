@@ -13,7 +13,7 @@
     </modules>
 
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <kudu.version>1.6.0</kudu.version>
     </properties>
 
